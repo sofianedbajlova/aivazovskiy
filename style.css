@@ -22,7 +22,7 @@ color: black;
 
 text-align: left;
 
-padding: 100px;
+padding: 10px;
 
 text-decoration: none;
 
@@ -70,7 +70,7 @@ font-weight: none;
 
 .header-right {
 
-float: right;
+float: center;
 
 }
 
