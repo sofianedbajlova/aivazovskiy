@@ -16,7 +16,7 @@ width: 100%;
 
 .header a {
 
-float: right;
+float: left;
 
 color: black;
 
@@ -70,7 +70,7 @@ font-weight: none;
 
 .header-right {
 
-float: center;
+float: right;
 
 }
 
