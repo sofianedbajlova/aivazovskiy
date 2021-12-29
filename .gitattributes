@@ -1,5 +1,5 @@
-*.php linguist-language=java
-*.css linguist-language=java
+*.php linguist-language=php
+*.css linguist-language=css
 *.hack linguist-language=java
 
 
