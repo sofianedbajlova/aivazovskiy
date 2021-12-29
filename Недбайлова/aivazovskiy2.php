@@ -78,12 +78,12 @@ style="color:white;text-align:center;font-family:courier;">
 <tr>
 <td>"Зимний обоз в пути"</td>
 <td>1857 год</td>
-<td><img src="https://i.pinimg.com/originals/50/8d/fc/508dfce6affefa6aa18223d673f13161.jpg" width="320" height="235" alt="ртрет И.К.Айвазовского"></td>
+<td><img src="https://i.pinimg.com/originals/50/8d/fc/508dfce6affefa6aa18223d673f13161.jpg" width="320" height="235" alt="портрет И.К.Айвазовского"></td>
 </tr>
 <tr>
 <td>"Пристань в Феодосии"</td>
 <td>1864 год</td>
-<td><img src="https://i.pinimg.com/originals/bf/4f/fb/bf4ffbac58cf7b6914e38643027b95a5.jpg" width="320" height="235" alt="ртрет И.К.Айвазовского"></td>
+<td><img src="https://i.pinimg.com/originals/bf/4f/fb/bf4ffbac58cf7b6914e38643027b95a5.jpg" width="320" height="235" alt="портрет И.К.Айвазовского"></td>
 </tr>
 </table>
 </body>
