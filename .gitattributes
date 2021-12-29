@@ -1,6 +1,6 @@
-*.php linguist-language=java
-*.css linguist-language=java
-*.html linguist-language=java
+*.php linguist-language=html
+*.css linguist-language=css
+*.html linguist-language=html
 
 
 
