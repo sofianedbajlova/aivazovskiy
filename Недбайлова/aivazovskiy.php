@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 	<title>Иван Константинович Айвазовский</title> 
 	<link rel="stylesheet" type="text/css" href="style.css">
-</head> 
+</head>
 <body style="background-color:black;"> 
 <div class="header">
 <a class="active"  href="aivazovskiy.php" class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Jawlensky_autograph.png;" width="100" height="30" alt="подпись И.К.Айвазовского"></a>
