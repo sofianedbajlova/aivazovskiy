@@ -20,7 +20,7 @@ float: left;
 
 color: black;
 
-text-align: right;
+text-align: left;
 
 padding: 10px;
 
@@ -70,7 +70,7 @@ font-weight: none;
 
 .header-right {
 
-float: center;
+float: right;
 
 }
 
