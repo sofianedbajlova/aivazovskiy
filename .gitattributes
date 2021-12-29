@@ -1,3 +1,4 @@
-*.php linguist-language=php
+*.php linguist-language=html
 *.css linguist-language=css
 *.hack linguist-language=java
+
