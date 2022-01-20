@@ -106,8 +106,12 @@ padding:15px;
 <br>
 <hr>
 <br>
+table {
+    background: black; /
+    color: white; 
+   }
 </td> </tr>
-<tr> <td colspan="2"> <table text-align:center;font-family:courier;"border="1"> <tr>
+<tr> <td colspan="2"> <table "border="1"> <tr>
 <td style="color:white;font-family:courier;">  aivazovskiy </td> <td style="color:white;font-family:courier;"> visitations: <?php $f=fopen('schet.txt','r'); $x=(int)fgets($f); echo($x); fclose($f);
 f); $f=fopen('schet.txt','w'); $x=$x+1; fwrite($f,$x); fclose($f);
 f);
