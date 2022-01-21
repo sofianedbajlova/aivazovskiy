@@ -109,9 +109,7 @@ padding:15px;
 </td> </tr>
 <tr> <td colspan="4"> <table "border="1" bgcolor=white bordercolor=grey> <tr>
 <td style="color:black;font-family:courier;">  aivazovskiy|</td> <td style="color:black;font-family:courier;"> visitations: 54
-<?php $f=fopen('schet.txt','r'); $x=(int)fgets($f); echo($x); fclose($f);
-f); $f=fopen('schet.txt','w'); $x=$x+1; fwrite($f,$x); fclose($f);
-f);
+<?php $f=fopen('schet.txt','r'); $x=(int)fgets($f); echo($x); fclose($f); $f=fopen('schet.txt','w'); $x=$x+1; fwrite($f,$x); fclose($f); ?>
 </td>
 </tr> </table> </td> </tr> 
 <br>
